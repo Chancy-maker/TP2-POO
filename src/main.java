@@ -1,5 +1,6 @@
 public class main {
     public static void main(String[] args){
-        System.out.println("Chancy est beau");
+
+        Personne chancy = new Personne(Civilite.MONSIEUR,"BAYEDI-MAYOMBO", "Chancy", 2001, true );
     }
 }
